@@ -1,0 +1,51 @@
+.classpath
+.project
+.settings/
+
+# Maven
+target/
+*.jar
+*.war
+*.ear
+*.zip
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+*.class
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+
+# Log files
+*.log
+
+# IDE specific files
+*.swp
+*.swo
+
+# Maven wrapper files
+.mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper/maven-wrapper.properties
+
+# Build directories
+build/
+dist/
+
+# User-specific files
+*.user
+*.user.xml
+
+# Other files to ignore
+*.class
+*.log
+*.pid
+*.seed
+*.jfr
+*.hprof
